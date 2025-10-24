@@ -1,0 +1,9 @@
+{
+  "site_name": "Sui LinkTree",
+  "description": "On-Chain LinkTree on Sui Blockchain with Walrus Sites",
+  "routes": {
+    "/": "/index.html",
+    "/*": "/index.html"
+  }
+}
+
